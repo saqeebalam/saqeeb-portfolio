@@ -136,7 +136,7 @@ I am actively preparing for **System Design & DSA interviews** and continuously 
 
 **Platform:** MongoDB
 *NoSQL data modeling, indexing, aggregation, performance optimization*
-🔗 [View Certificate](./certificates/mongoDB_Cert#LUEMDBOCT160.pdf)
+🔗 [View Certificate](./certificates/mongoDB_Cert.pdf)
 
 ---
 
