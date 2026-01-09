@@ -89,7 +89,7 @@ I am actively preparing for **System Design & DSA interviews** and continuously 
 
 **Platform:** Udemy
 *Core Java, OOP, Collections, Multithreading, JDBC, File Handling*
-🔗 [https://www.udemy.com/certificate/UC-500584e4-3ebd](https://www.udemy.com/certificate/UC-500584e4-3ebd)
+🔗 [https://www.udemy.com/certificate/UC-500584e4-3ebd-4103-8dd1-279067931d1e/](https://www.udemy.com/certificate/UC-500584e4-3ebd-4103-8dd1-279067931d1e/)
 
 ---
 
@@ -116,12 +116,27 @@ I am actively preparing for **System Design & DSA interviews** and continuously 
 🔗 [https://badgr.com/public/assertions/RMk732qFRwK6MfT4bi3xeA](https://badgr.com/public/assertions/RMk732qFRwK6MfT4bi3xeA)
 
 
+### 🏅 AWS Command Line Interface (CLI) Basics
+
+**Platform:** Amazon Web Services
+*EC2, S3, IAM, AWS CLI commands, cloud resource management*
+🔗 [View Certificate](./certificates/aws_cli.pdf)
+
 ---
 
-## 📊 GitHub Stats
+### 🏅 Amazon Simple Notification Service (SNS) – Troubleshooting
 
-![Saqeeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqeebalam\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saqeebalam\&layout=compact)
+**Platform:** Amazon Web Services
+*Topic & subscription management, message delivery troubleshooting, cloud notifications*
+🔗 [View Certificate](./certificates/aws_sns.pdf)
+
+---
+
+### 🏅 MongoDB Bootcamp
+
+**Platform:** MongoDB
+*NoSQL data modeling, indexing, aggregation, performance optimization*
+🔗 [View Certificate](./certificates/Saqeeb%20Alam%20-%20Cert#LUEMDBOCT160.pdf)
 
 ---
 
@@ -140,4 +155,3 @@ I am actively preparing for **System Design & DSA interviews** and continuously 
 
 
 ---
-# saqeeb-portfolio
